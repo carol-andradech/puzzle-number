@@ -1,7 +1,9 @@
 <div align="center">
   <img src="image-puzzle.png"  height="425" >
 </div>
+
 # Quebra Cabeça Numéro
+
 Este código Python implementa um jogo de quebra-cabeça numérico em uma interface gráfica usando a biblioteca Tkinter. O objetivo do jogo é organizar os números em ordem numérica correta deslizando os espaços vazios.
 
 Funcionalidades do Jogo:
